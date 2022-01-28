@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Henry Walker.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Software Development.
-- 💞️ I’m looking to collaborate on nothing right now.
+- 💞️ I’m not looking to collaborate on anything right now.
 - 📫 How to reach me Hgwalker@yahoo.com.
 
 <!---
